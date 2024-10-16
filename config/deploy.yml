@@ -7,7 +7,7 @@ image: vinibispo/issue_with_flag_icons
 # Deploy to these servers.
 servers:
   web:
-    - ec2-3-142-208-132.us-east-2.compute.amazonaws.com
+    - ec2-3-147-9-89.us-east-2.compute.amazonaws.com
   # job:
   #   hosts:
   #     - 192.168.0.1
